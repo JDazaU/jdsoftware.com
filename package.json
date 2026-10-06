@@ -1,0 +1,6 @@
+{
+  "name": "jd-software-crm",
+  "private": true,
+  "type": "module",
+  "dependencies": { "nodemailer": "^10.0.15" }
+}
